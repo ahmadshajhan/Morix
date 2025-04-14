@@ -36,9 +36,9 @@ function Footer() {
   return (
     <FooterContainer>
       <SocialLinks>
-        <SocialLink href="#"><FaTwitter /></SocialLink>
-        <SocialLink href="#"><FaTelegram /></SocialLink>
-        <SocialLink href="#"><FaGithub /></SocialLink>
+        <SocialLink href="https://x.com/MrCode59636?s=09"><FaTwitter /></SocialLink>
+        <SocialLink href="https://t.me/+Tk1sL3RSMR43ZWNl"><FaTelegram /></SocialLink>
+        <SocialLink href="https://github.com/ahmadshajhan"><FaGithub /></SocialLink>
       </SocialLinks>
       <Copyright>© {new Date().getFullYear()} Morix AI. All rights reserved.</Copyright>
     </FooterContainer>
