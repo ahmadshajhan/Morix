@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import styled from 'animated-styled-components';
-import axios from 'axios';
+import styled from 'styled-components';
 import { motion } from 'framer-motion';
+import axios from 'axios';
 import SignalDisplay from '../components/SignalDisplay';
 import TradingViewWidget from '../components/TradingViewWidget';
 import StatsPanel from '../components/StatsPanel';
